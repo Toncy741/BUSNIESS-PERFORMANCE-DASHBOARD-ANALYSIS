@@ -17,6 +17,7 @@ Busniess  performance dashboard provides an overview of various business metrics
 The dashboard allows for filtering and exploration of data across various dimensions such as Country, Discount Band, Product, and Segment 
 
 [sales analysis(2)
+
 related to sales, profit, and performance across different segments, products, and countries.:
 
 1. Top Selling Product: The top-selling product is Paseo.
